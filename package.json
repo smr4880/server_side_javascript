@@ -1,0 +1,23 @@
+{
+  "name": "server_side_javascript",
+  "version": "1.0.0",
+  "description": "node.js tutorial",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smr4880/server_side_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smr4880/server_side_javascript/issues"
+  },
+  "homepage": "https://github.com/smr4880/server_side_javascript#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
